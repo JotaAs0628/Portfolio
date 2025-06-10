@@ -504,7 +504,9 @@ box-shadow: -.6rem .6rem .6rem rgba(0, 0, 0, .3);
     flex-direction: column;
     width: 100%;
   }
-
+.btn-box .contact-me{
+    display: none;
+  }
   .profile-page p {
     font-size: 0.95rem;
   }
